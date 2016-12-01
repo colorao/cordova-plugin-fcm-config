@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "441591462076",
+    "firebase_url": "https://cac-demo.firebaseio.com",
+    "project_id": "cac-demo",
+    "storage_bucket": "cac-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441591462076:android:9cf08b8ab79bd566",
+        "android_client_info": {
+          "package_name": "es.colorao.cac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441591462076-juvb4a2agnrq1jhpgjg11v5n7db7lvv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXRu1jy8sfc6sLnfumIsjfftAga2JG-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
